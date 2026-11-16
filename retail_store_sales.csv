@@ -1,0 +1,31 @@
+Transaction_ID,Date,Category,Product_Name,Quantity,Unit_Price,Region,Payment_Method
+TXN_101,2026-01-05,Consumer Electronics,Wireless Bluetooth Earbuds,4,49.99,North,Credit Card
+TXN_102,2026-01-05,Home & Kitchen,Stainless Steel Air Fryer,2,89.50,West,UPI
+TXN_103,2026-01-06,Fitness & Outdoors,Yoga Mat & Resistance Bands,5,24.00,South,Debit Card
+TXN_104,2026-01-07,Consumer Electronics,Mechanical Gaming Keyboard,3,79.99,East,Credit Card
+TXN_105,2026-01-08,Wearable Tech,Smart Fitness Tracker,6,59.00,North,Net Banking
+TXN_106,2026-01-08,Office Supplies,Ergonomic Desk Chair Cushion,4,35.00,West,UPI
+TXN_107,2026-01-09,Audio & Accessories,Noise Cancelling Headphones,3,149.99,East,Credit Card
+TXN_108,2026-01-10,Home & Kitchen,Electric Drip Coffee Maker,5,45.00,South,Credit Card
+TXN_109,2026-01-11,Consumer Electronics,Ultra-Slim Power Bank 20000mAh,8,39.99,North,UPI
+TXN_110,2026-01-12,Fitness & Outdoors,Adjustable Dumbbell Set,2,119.00,West,Debit Card
+TXN_111,2026-01-13,Office Supplies,Magnetic Whiteboard with Markers,7,28.50,East,Net Banking
+TXN_112,2026-01-14,Wearable Tech,GPS Smartwatch Sport,4,199.00,South,Credit Card
+TXN_113,2026-01-15,Audio & Accessories,Wireless Desktop Speaker,5,65.00,North,UPI
+TXN_114,2026-01-16,Home & Kitchen,Compact Vacuum Cleaner,3,75.00,West,Credit Card
+TXN_115,2026-01-17,Consumer Electronics,4K USB-C Webcam,6,69.99,East,Debit Card
+TXN_116,2026-01-18,Fitness & Outdoors,Insulated Stainless Water Bottle,12,18.50,North,UPI
+TXN_117,2026-01-19,Wearable Tech,Smart Sleep Ring,3,179.00,West,Credit Card
+TXN_118,2026-01-20,Office Supplies,LED Desk Lamp with Wireless Charger,6,42.00,South,Net Banking
+TXN_119,2026-01-21,Audio & Accessories,Studio Monitor Speakers,2,220.00,East,Credit Card
+TXN_120,2026-01-22,Home & Kitchen,Ceramic Non-Stick Cookware Set,4,95.00,North,UPI
+TXN_121,2026-01-23,Consumer Electronics,Wireless Dual-Band Router,5,54.99,West,Debit Card
+TXN_122,2026-01-24,Fitness & Outdoors,Skipping Rope with Counter,10,12.00,South,UPI
+TXN_123,2026-01-25,Wearable Tech,Heart Rate Chest Strap,4,49.00,East,Credit Card
+TXN_124,2026-01-26,Office Supplies,Multi-Functional Paper Shredder,3,82.00,North,Net Banking
+TXN_125,2026-01-27,Audio & Accessories,USB Condenser Microphone,7,58.00,West,UPI
+TXN_126,2026-01-28,Home & Kitchen,Digital Food Kitchen Scale,8,19.99,East,Debit Card
+TXN_127,2026-01-29,Consumer Electronics,Fast Wireless Charging Pad,9,22.50,South,UPI
+TXN_128,2026-01-30,Fitness & Outdoors,Foam Roller Deep Tissue,6,26.00,North,Credit Card
+TXN_129,2026-01-31,Wearable Tech,Smart Pedometer Clip,5,29.99,West,Debit Card
+TXN_130,2026-02-01,Office Supplies,Adjustable Laptop Lap Desk,4,34.00,East,Credit Card
